@@ -28,7 +28,12 @@ html, body{
 
 } */
 
+#parents{ 
+    height: 500px;
+    width: 500px;
+    background-color: rgb(36, 159, 212);
+    font-size: 20px;
+}
 h1{
-    font-style: italic;
-    font-size: 10vmax;
+    font-size: 1em;
 }

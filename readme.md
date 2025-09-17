@@ -7,3 +7,4 @@
 
 # Units & Viewports: The Real Foundation
 - px  ye hmesha fix size me rhete hai 
+- percent %   ye apne perent per depend karta hai 

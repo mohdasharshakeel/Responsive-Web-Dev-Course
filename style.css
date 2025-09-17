@@ -8,18 +8,14 @@ html, body{
     width: 100%;
 }
 
-h1{
-    font-size: 100px; 
-}
-
 #box{
-    height: 200px;
-    width: 400px;
-    background-color: crimson;
+    width: 40%;
+    height:40%;
+    background-color: lightgreen;
 }
 
-#inner{
-    height: 100px;
-    width: 100px;
-    background-color: lightskyblue;
+#inn{
+    width: 10%;
+    height: 52%;
+    background-color: yellow;
 }

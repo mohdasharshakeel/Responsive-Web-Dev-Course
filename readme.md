@@ -17,4 +17,5 @@
 
 - em me parent ko value do aur child ko em me dedo phir agar parent ko change karege to chil per bhi affect karegi 
 
--rem = 1rem  ( 1rem = 16px according to root )
+- rem = 1rem  ( 1rem = 16px according to root )
+-

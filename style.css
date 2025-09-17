@@ -8,14 +8,27 @@ html, body{
     width: 100%;
 }
 
-#box{
+/* #box{
     width: 40%;
     height:40%;
     background-color: lightgreen;
-}
+} */
 
-#inn{
+/* #inn{
     width: 10%;
     height: 52%;
     background-color: yellow;
+} */
+
+
+/* #box{
+    width: 40vw;
+    height: 50vh;
+    background-color: lightseagreen;
+
+} */
+
+h1{
+    font-style: italic;
+    font-size: 10vmax;
 }

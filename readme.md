@@ -20,3 +20,5 @@
 - rem = 1rem  ( 1rem = 16px according to root )
 - ch - [ like maine likha widht : 5ch to iska matlab hai ek line me 5 charecter hi ayege phir next line per move ho jaega ] 
 - lh [ iska matlab hota hai 2line ke brabr line lega ]
+
+-------------------------------------------------------------------------------------------------------------
